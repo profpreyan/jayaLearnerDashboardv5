@@ -1,0 +1,5 @@
+{
+  "name": "RedShift Learner Dashboard",
+  "description": "A high-fidelity learner dashboard featuring dark mode, glassmorphism, and a red accent theme. Includes task management, progress tracking, and simulated Google Sheets integration.",
+  "requestFramePermissions": []
+}
